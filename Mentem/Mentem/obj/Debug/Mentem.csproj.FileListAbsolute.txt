@@ -1,0 +1,10 @@
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Mentem\Mentem\bin\Debug\Mentem.exe.config
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Mentem\Mentem\bin\Debug\Mentem.exe
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Mentem\Mentem\bin\Debug\Mentem.pdb
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Mentem\Mentem\obj\Debug\Mentem.csproj.AssemblyReference.cache
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Mentem\Mentem\obj\Debug\Mentem.Form1.resources
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Mentem\Mentem\obj\Debug\Mentem.Properties.Resources.resources
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Mentem\Mentem\obj\Debug\Mentem.csproj.GenerateResource.cache
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Mentem\Mentem\obj\Debug\Mentem.csproj.CoreCompileInputs.cache
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Mentem\Mentem\obj\Debug\Mentem.exe
+C:\Users\TheBoss\OneDrive\Desktop\Atestate\Mentem\Mentem\obj\Debug\Mentem.pdb
